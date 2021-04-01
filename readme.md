@@ -1,4 +1,4 @@
-# Drowsiness Detection OpenCV [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/LICENSE.txt) [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# Drowsiness Detection OpenCV 
 
 This code can detect your eyes and alert when the user is drowsy.
 
@@ -45,7 +45,10 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ![alerte](https://user-images.githubusercontent.com/39752128/113356743-4deda580-9332-11eb-84ea-985bcdf82221.PNG)
 
-Exécution
-Pour exécuter le code, tapez python Drowsiness_Detection.py
 
+### Execution
+
+To run the code, type `python Drowsiness_Detection.py`
+
+```
 python Drowsiness_Detection.py
