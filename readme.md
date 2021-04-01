@@ -43,11 +43,9 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ### Working Example
 
-### Execution
+![alerte](https://user-images.githubusercontent.com/39752128/113356743-4deda580-9332-11eb-84ea-985bcdf82221.PNG)
 
-To run the code, type `python Drowsiness_Detection.py`
+Exécution
+Pour exécuter le code, tapez python Drowsiness_Detection.py
 
-```
 python Drowsiness_Detection.py
-```
-"# Detecteur-de-somnolence-Python"  
